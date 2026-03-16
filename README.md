@@ -7,7 +7,8 @@
 ## 🎓 Education
 
 - **인하대학교** (19.03 ~ )
-- **SW Maestro 16기** (25.04 ~ )
+- **SW Maestro 16기** (25.04 ~ 25.12)
+- **SW Maestro 글로벌 AI*SW역량 강화 교육** (26.01 ~ 26.02)
 
 ## 👥 Activities
 
